@@ -1,0 +1,17 @@
+.jumbotron {
+    display:flex;
+    align-items: center;
+    background-image: url('https://nesncom.files.wordpress.com/2017/05/jaylen-brown-celtics1.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 800px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+
+}
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
