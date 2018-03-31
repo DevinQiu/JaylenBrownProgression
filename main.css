@@ -1,7 +1,7 @@
 .jumbotron {
     display:flex;
     align-items: center;
-    background-image: url('https://nesncom.files.wordpress.com/2017/05/jaylen-brown-celtics1.jpg');
+    background-image: url('https://cdn.vox-cdn.com/thumbor/m3YCDZRiU3HtbrTMcX1LgYn_Acg=/0x0:4924x3517/1200x800/filters:focal(2593x223:3379x1009)/cdn.vox-cdn.com/uploads/chorus_image/image/52851853/usa_today_9601713.0.jpg');
     background-size: cover;
     color: #ffffff;
     height: 800px;
@@ -9,9 +9,23 @@
 
 }
 
+.jaylenlebron {
+    height:350px;
+    display: block;
+    margin: 0 auto;
+}
 
-img {
-    max-width: 100%;
-    max-height: 100%;
+
+.headercenter{
+    text-align:center;
+}
+
+.h2jaylenheader{
+    color:#ffffff;
+    text-transform:uppercase;
+}
+
+.h3jaylenheader{
+    color:#ffffff;
 }
 
