@@ -1,3 +1,9 @@
+.headertext{
+    background-color: #007A33;
+    color: white;
+}
+
+
 .jumbotron {
     display:flex;
     align-items: center;
